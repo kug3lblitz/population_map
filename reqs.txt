@@ -1,0 +1,5 @@
+greenlet==0.4.13
+msgpack==0.5.6
+neovim==0.2.6
+pygal==2.4.0
+pygal-maps-world==1.0.2
